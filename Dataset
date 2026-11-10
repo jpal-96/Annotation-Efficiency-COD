@@ -1,0 +1,5 @@
+We use four publicly available benchmark datasets for evaluating the proposed COD framework:
+COD10K (https://cove.thecvf.com/datasets/326)
+CAMO (https://sites.google.com/view/ltnghia/research/camo)
+CHAMELEON (https://ieee-dataport.org/documents/chameleon)
+NC4K (https://www.kaggle.com/datasets/ivanomelchenkoim11/nc4k-dataset)
